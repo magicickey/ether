@@ -19,3 +19,5 @@
 ![robotics](https://github.com/magicickey/ether/blob/main/robotics.webp?raw=true)
 ![OIP](https://github.com/magicickey/ether/blob/main/OIP.jfif?raw=true)
 ![R](https://github.com/magicickey/ether/blob/main/R.png?raw=true)
+// projet cover
+![Dimensions%20personnalis%C3%A9es%202000x1000%20px](https://github.com/magicickey/ether/blob/main/Dimensions%20personnalis%C3%A9es%202000x1000%20px.jpeg?raw=true)
