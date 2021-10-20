@@ -18,4 +18,4 @@
 // hobbys
 ![robotics](https://github.com/magicickey/ether/blob/main/robotics.webp?raw=true)
 ![OIP](https://github.com/magicickey/ether/blob/main/OIP.jfif?raw=true)
-![](
+![R](https://github.com/magicickey/ether/blob/main/R.png?raw=true)
