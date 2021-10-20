@@ -30,4 +30,4 @@
 ![a3](https://github.com/magicickey/ether/blob/main/a3.jpeg?raw=true)
 ![clock](https://github.com/magicickey/ether/blob/main/clock.jfif?raw=true)
 // index design
-![Banni%C3%A8re%20de%20profil%20Twitch%201200x480%20%20px](https://github.com/magicickey/ether/blob/main/Banni%C3%A8re%20de%20profil%20Twitch%201200x480%20%20px.jpeg?eaw=true)
+
