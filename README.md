@@ -5,3 +5,5 @@
 ![wallpaperbetter%20(2)](https://github.com/magicickey/ether/blob/main/wallpaperbetter%20(2).jpg?raw=true)
 // logo 
 ![boite-logo-vide](https://github.com/magicickey/ether/blob/main/boite-logo-vide.png?raw=true)
+// about
+![uwp1520252](https://github.com/magicickey/ether/blob/main/uwp1520252.jpeg?raw=true)
