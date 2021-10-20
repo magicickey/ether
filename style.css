@@ -43,7 +43,7 @@ h1 {
    
   height: flex-bottom;
   font-weight: auto;
-  margin: auto;
+  margin: center;
   display:center;
   
   
@@ -51,9 +51,9 @@ h1 {
 nav {
  background-color:none;
  color:white;
-  display:flex-block;
+  display:center;
   justify-content:flex-end;
-	display: top-center;
+	display: center;
 
   
 
@@ -76,9 +76,9 @@ color: white;
 .jumbotron {
   display:center;
 
-  align-items: flex;
+  align-items: center;
   border-image-outset: auto ;
-display :left-block;
+display :center;
 
   background-size:cover;
   color:white;
