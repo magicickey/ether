@@ -7,3 +7,4 @@
 ![boite-logo-vide](https://github.com/magicickey/ether/blob/main/boite-logo-vide.png?raw=true)
 // about
 ![uwp1520252](https://github.com/magicickey/ether/blob/main/uwp1520252.jpeg?raw=true)
+![Despidos_SpaceX](https://github.com/magicickey/ether/blob/main/Despidos_SpaceX.jpg?raw=true)
