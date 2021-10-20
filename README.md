@@ -12,6 +12,6 @@
 ![html](https://github.com/magicickey/ether/blob/main/html.png?raw=true)
 ![gimp](https://github.com/magicickey/ether/blob/main/gimp.png?raw=true)
 ![java](https://github.com/magicickey/ether/blob/main/java.png?raw=true)
-![logo-css](https://github.com/magicickey/ether/blob/main/
+![logo-css](https://github.com/magicickey/ether/blob/main/logo-css.webp?raw=true)
 ![php](https://github.com/magicickey/ether/blob/main/php.jpg?raw=true)
 ![python](https://github.com/magicickey/ether/blob/main/python.jpg?raw=true)
