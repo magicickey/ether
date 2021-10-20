@@ -15,3 +15,5 @@
 ![logo-css](https://github.com/magicickey/ether/blob/main/logo-css.webp?raw=true)
 ![php](https://github.com/magicickey/ether/blob/main/php.jpg?raw=true)
 ![python](https://github.com/magicickey/ether/blob/main/python.jpg?raw=true)
+// hobbys
+![robotics](https://github.com/magicickey/ether/blob/main/robotics.webp?raw=true)
