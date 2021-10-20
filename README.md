@@ -10,8 +10,8 @@
 ![WallpaperDog-5460464](https://github.com/magicickey/ether/blob/main/WallpaperDog-5460464.jpg?raw=true)
 // experience // Ccarrousel
 ![html](https://github.com/magicickey/ether/blob/main/html.png?raw=true)
-![gimp](https://github.com/magicickey/ether/blob/main/
-![java](https://github.com/magicickey/ether/blob/main/
+![gimp](https://github.com/magicickey/ether/blob/main/gimp.png?raw=true)
+![java](https://github.com/magicickey/ether/blob/main/java.png?raw=true)
 ![logo-css](https://github.com/magicickey/ether/blob/main/
 ![php](https://github.com/magicickey/ether/blob/main/
 ![python](https://github.com/magicickey/ether/blob/main/
