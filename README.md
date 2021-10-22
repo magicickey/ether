@@ -31,5 +31,6 @@
 ![clock](https://github.com/magicickey/ether/blob/main/clock.jfif?raw=true)
 ![Magic8Ball](https://github.com/magicickey/ether/blob/main/Magic8Ball.jpeg?raw=true)
 ![qrcode_www.codecademy.com](https://github.com/magicickey/ether/blob/main/qrcode_www.codecademy.com.png?raw=true)
+![QRpython](https://github.com/magicickey/ether/blob/main/QRpython.jpeg?raw+true)
 // index design
 
