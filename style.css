@@ -16,7 +16,7 @@ body {
 	header {
  color: orange;
  background-color:none;
- background-image:url("1681904.jpg");
+ background-image:url("pexels-gdtography-911758.jpg");
   display:align-center;
    padding: auto ;
    
@@ -26,7 +26,7 @@ body {
 header .row,
 footer .row {
   color:orange;
-  background-color: none;
+  background-color: silver;
 background-image:url("");
  
 
