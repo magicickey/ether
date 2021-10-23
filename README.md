@@ -2,6 +2,7 @@
 // Design
 ![Black-Marquina-premium-copie-1320x564](https://github.com/magicickey/ether/blob/main/Black-Marquina-premium-copie-1320x564.jpg?raw=true)
 
+
 // about 
 ![wallpaperbetter%20(2)](https://github.com/magicickey/ether/blob/main/wallpaperbetter%20(2).jpg?raw=true)
 // logo 
@@ -34,5 +35,5 @@
 ![qrcode_www.codecademy.com](https://github.com/magicickey/ether/blob/main/qrcode_www.codecademy.com.png?raw=true)
 ![QRpython](https://github.com/magicickey/ether/blob/main/QRpython.jpeg?raw+true)
 // index design
-![538181](https://github.com/magicickey/ether/blob/main/538181.webp?raw=true)
+![uwp1520252](https://github.com/magicickey/ether/blob/main/uwp1520252.jpeg?raw=true)
 
