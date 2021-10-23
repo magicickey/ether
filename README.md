@@ -1,5 +1,6 @@
 # ether
 // Design
+![Black-Marquina-premium-copie-1320x564](https://github.com/magicickey/ether/blob/main/Black-Marquina-premium-copie-1320x564.jpg?raw=true)
 
 // about 
 ![wallpaperbetter%20(2)](https://github.com/magicickey/ether/blob/main/wallpaperbetter%20(2).jpg?raw=true)
