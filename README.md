@@ -7,7 +7,7 @@
 ![boite-logo-vide](https://github.com/magicickey/ether/blob/main/boite-logo-vide.png?raw=true)
 // index
 ![Despidos_SpaceX](https://github.com/magicickey/ether/blob/main/Despidos_SpaceX.jpg?raw=true)
-![](
+![246449254_237585578401317_5152542348980881238_n](https://github.com/magicickey/ether/blob/main/246449254_237585578401317_5152542348980881238_n.jpg?raw=true)
 // experience // Ccarrousel
 ![html](https://github.com/magicickey/ether/blob/main/html.png?raw=true)
 ![gimp](https://github.com/magicickey/ether/blob/main/gimp.png?raw=true)
