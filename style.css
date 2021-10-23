@@ -9,15 +9,15 @@ body {
   font-family: 'Orbitron', sans-serif;
   background-color:none;
 	background-image:url("1681904.jpg");
-	color: pink;
-       font-size: 11px;
+	color: orange;
+       font-size: 19px;
 
 	
 	header {
- color: pink;
+ color: orange;
  background-color:none;
  background-image:url("1681904.jpg");
-  display:flex-center;
+  display:align-center;
    padding: auto ;
    
    font-size:auto;
@@ -25,7 +25,7 @@ body {
 
 header .row,
 footer .row {
-  color:pink;
+  color:orange;
   background-color: none;
 background-image:url("");
  
@@ -33,7 +33,7 @@ background-image:url("");
   
  display: center;
   align-items: center;
-  color:pink;
+  color:orange;
   background-color:black;
   
 }
@@ -42,7 +42,7 @@ background-image:url("");
 }
 
 h1 {
-  color:pink;
+  color:orange;
    
   height: flex-bottom;
   font-weight: auto;
@@ -53,7 +53,7 @@ h1 {
 
 nav {
  background-color:none;
- color:pink;
+ color:orange;
   display:center;
   justify-content:flex-end;
 	display: center;
@@ -64,16 +64,16 @@ nav {
   
 
 a {
-color: pink;
-  padding: auto ;
-  margin:  auto;
+color: orange;
+  padding: 11px ;
+  margin:  11px;
 }
   
   a {
-	color: pink; text-decoration:none;
+	color: orange; text-decoration:none;
 }
 	a:hover {
-		color:yellow;
+		color:orange;
 	}
 
 .jumbotron {
@@ -84,17 +84,17 @@ color: pink;
 display :center;
 
   background-size:cover;
-  color:pink;
+  color:orange;
   background-color:black;
   height: auto;
 }
 
 .jumbotron h2 {
 background-image:url('');
-  font-size: auto;
-  font-weight: auto;
+  font-size: 15px;
+  font-weight: 15px;
   margin: auto;
-  color:pink ;
+  color:orange ;
  
 
  
@@ -103,9 +103,9 @@ background-image:url('');
 }
 
 .jumbotron h3 {
-  Font-size: auto;
-  margin: auto;
-  color:pink;
+  Font-size: 15px;
+  margin: 15px;
+  color:orange;
   background-color:black;
   display:center;
  
@@ -122,7 +122,7 @@ section .row img {
 }
 
 .col-md-6 {
-  color: pink;
+  color: orange;
   background-color:none ;
   margin: 0 0 auto;
 }
@@ -130,20 +130,20 @@ section .row img {
 .btn.btn-primary {
   border-radius: auto;
   border: auto;
-  color:pink;
+  color:orange;
   background-color:black ;
 }
 
 .btn.btn-primary:hover {
-  color:white;
+  color:yellow
   background-color:black;
 	display: center;
 }
 
 .btn-secondary {
   background-color:black ;
-  color:pink;
-  margin: 0 0 0 7px
+  color:orange;
+  margin: 0 0 0 19px
 }
 .button {
   display: center;
@@ -153,14 +153,14 @@ section .row img {
 .portrait {
   color:none;
   
-  width:  0 auto;
-  height: 0 auto;
+  width:  0 16px;
+  height: 0 16px;
 }
 
 figure img {
-  color:pink;
-  width: auto;
-  height: auto;
+  color:orange;
+  width: 16px;
+  height: 16px;
   background-color:black;
 
 }
@@ -170,7 +170,7 @@ figure img {
 footer {
   font-size:auto;
   padding: auto;
-  color:pink;
+  color:orange;
   background-color:black;
 
 
@@ -180,13 +180,13 @@ footer {
 
 footer .col-sm-8 {
   background-color:black;
-  color:pink;
+  color:orange;
   display:center;
   justify-content:flex-end;
 }
 
 footer ul {
-  color:pink;
+  color:orange;
   background-color:black;
-  list-style: flex;
+  list-style: align-item;
 }
