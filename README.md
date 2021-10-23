@@ -1,6 +1,6 @@
 # ether
 // Design
-![Shiny-Silver-Background](https://github.com/magicickey/ether/blob/main/Shiny-Silver-Background.webp?raw=true)
+
 // about 
 ![wallpaperbetter%20(2)](https://github.com/magicickey/ether/blob/main/wallpaperbetter%20(2).jpg?raw=true)
 // logo 
