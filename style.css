@@ -7,14 +7,14 @@
 
 body {
   font-family: 'Sans -serif', sans-serif;
-  background-color:none;
-	background-image:url("wallpapertip_cool-purple-wallpaper_335153.jpg");
-	color: orange;
+  background-color:black;
+	background-image:url("");
+	color: white;
        font-size: 19px;
 
 	
 	header {
- color: Blue;
+ color: blue;
  background-color:none;
  background-image:url("wallpapertip_cool-purple-wallpaper_335153.jpg");
   display:align-center;
@@ -25,7 +25,7 @@ body {
 
 header .row,
 footer .row {
-  color:orange;
+  color:blue;
   background-color: silver;
 background-image:url("");
  
