@@ -8,7 +8,7 @@
 body {
   font-family: 'Orbitron', sans-serif;
   background-color:none;
-	background-image:url("pexels-gdtography-911758.jpg");
+	background-image:url("");
 	color: orange;
        font-size: 19px;
 
@@ -16,7 +16,7 @@ body {
 	header {
  color: orange;
  background-color:none;
- background-image:url("pexels-gdtography-911758.jpg");
+ background-image:url("");
   display:align-center;
    padding: auto ;
    
@@ -27,7 +27,7 @@ header .row,
 footer .row {
   color:orange;
   background-color: silver;
-background-image:url("pexels-gdtography-911758.jpg");
+background-image:url("");
  
 
   
