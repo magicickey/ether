@@ -5,7 +5,7 @@
 
 
 // about 
-![Kanye_West_Runaway_Music_Video-467708194-larg](https://github.com/magicickey/ether/blob/main/Kanye_West_Runaway_Music_Video-467708194-large.jpg?raw=true)
+
 // logo 
 ![boite-logo-vide](https://github.com/magicickey/ether/blob/main/boite-logo-vide.png?raw=true)
 // index
@@ -36,5 +36,5 @@
 ![qrcode_www.codecademy.com](https://github.com/magicickey/ether/blob/main/qrcode_www.codecademy.com.png?raw=true)
 ![QRpython](https://github.com/magicickey/ether/blob/main/QRpython.jpeg?raw+true)
 // index design
-![uwp1520252](https://github.com/magicickey/ether/blob/main/uwp1520252.jpeg?raw=true)
+
 
