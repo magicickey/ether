@@ -3,7 +3,7 @@
 
 ![wallpapertip_cool-purple-wallpaper_335153](https://github.com/magicickey/ether/blob/main/wallpapertip_cool-purple-wallpaper_335153.jpg?raw=true)
 ![desert-sand-dunes-travel-concepts-dried-trees-camel](https://github.com/magicickey/ether/blob/main/desert-sand-dunes-travel-concepts-dried-trees-camel.jpg?raw=true)
-
+![veloscuro-ok](https://github.com/magicickey/ether/blob/main/veloscuro-ok.jpg?raw=true)
 // about 
 
 // logo 
