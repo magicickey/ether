@@ -8,7 +8,7 @@
 body {
   font-family: 'Sans -serif', sans-serif;
   background-color:none;
-	background-image:url("");
+	background-image:url("abstract-1635133716625-4573.jpg");
 	color:#87ceeb ;
        font-size: 19px;
 
@@ -26,8 +26,8 @@ body {
 header .row,
 footer .row {
   color:white;
-  background-color:none;
-background-image:url("abstract-1635133716625-4573.jpg");
+  background-color:black;
+background-image:url("");
  
 
   
