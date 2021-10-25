@@ -8,7 +8,7 @@
 body {
   font-family: 'Sans -serif', sans-serif;
   background-color:none;
-	background-image:url("background.png");
+	background-image:url("Untitled-2-original.jpg");
 	color: white;
        font-size: 19px;
 
@@ -16,7 +16,7 @@ body {
 	header {
  color: white;
  background-color:yellow;
- background-image:url("background.png");
+ background-image:url("Untitled-2-original.jpg");
   display:align-center;
    padding: auto ;
    
@@ -27,7 +27,7 @@ header .row,
 footer .row {
   color:white;
   background-color:yellow;
-background-image:url("background.png");
+background-image:url("Untitled-2-original.jpg");
  
 
   
