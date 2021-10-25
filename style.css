@@ -7,14 +7,14 @@
 
 body {
   font-family: 'Sans -serif', sans-serif;
-  background-color:black;
+  background-color:none;
 	background-image:url("_s_a12Cb12Cc12Cd12Ce0f0g64h001C03FFE3E3FFCAC6FFB5AAiA1j0k64l1D3m1D3.jpg");
 	color: white;
        font-size: 19px;
 
 	
 	header {
- color: black;
+ color: white;
  background-color:yellow;
  background-image:url("_s_a12Cb12Cc12Cd12Ce0f0g64h001C03FFE3E3FFCAC6FFB5AAiA1j0k64l1D3m1D3.jpg");
   display:align-center;
@@ -26,7 +26,7 @@ body {
 header .row,
 footer .row {
   color:yellow;
-  background-color: black;
+  background-color:none;
 background-image:url("_s_a12Cb12Cc12Cd12Ce0f0g64h001C03FFE3E3FFCAC6FFB5AAiA1j0k64l1D3m1D3.jpg");
  
 
@@ -34,7 +34,7 @@ background-image:url("_s_a12Cb12Cc12Cd12Ce0f0g64h001C03FFE3E3FFCAC6FFB5AAiA1j0k6
  display: center;
   align-items: center;
   color:#87ceeb;
-  background-color:black;
+  background-color:none;
   
 }
 	figure {
