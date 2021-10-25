@@ -3,7 +3,7 @@
 ![Banz5J](https://github.com/magicickey/ether/blob/main/Banz5J.jpg?raw=true)
 ![wallpapertip_cool-purple-wallpaper_335153](https://github.com/magicickey/ether/blob/main/wallpapertip_cool-purple-wallpaper_335153.jpg?raw=true)
 ![desert-sand-dunes-travel-concepts-dried-trees-camel](https://github.com/magicickey/ether/blob/main/desert-sand-dunes-travel-concepts-dried-trees-camel.jpg?raw=true)
-![background](https://github.com/magicickey/ether/blob/main/background.png?raw=true)
+
 // about 
 
 // logo 
