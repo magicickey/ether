@@ -36,5 +36,4 @@
 ![qrcode_www.codecademy.com](https://github.com/magicickey/ether/blob/main/qrcode_www.codecademy.com.png?raw=true)
 ![QRpython](https://github.com/magicickey/ether/blob/main/QRpython.jpeg?raw+true)
 // index design
-
-
+![Untitled-2-original](https://github.com/magicickey/ether/blob/main/Untitled-2-original.jpg?raw=true)
