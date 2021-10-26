@@ -7,15 +7,15 @@
 
 body {
   font-family: 'Sans -serif', sans-serif;
-  background-color:black;
-	background-image:url("");
+  background-color:none;
+	background-image:url("Silver-Wallpaper-51.jpg");
 	color:#87ceeb ;
        font-size: 19px;
 
 	
 	header {
  color: white;
- background-color:black;
+ background-color:blue;
  background-image:url("");
   display:align-center;
    padding: auto ;
@@ -26,7 +26,7 @@ body {
 header .row,
 footer .row {
   color:white;
-  background-color:black;
+  background-color:blue;
 background-image:url("");
  
 
