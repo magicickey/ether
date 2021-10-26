@@ -2,7 +2,7 @@
 // Design
 ![abstract-1635133716625-4573](https://github.com/magicickey/ether/blob/main/abstract-1635133716625-4573.jpg?raw=true)
 ![wallpapertip_cool-purple-wallpaper_335153](https://github.com/magicickey/ether/blob/main/wallpapertip_cool-purple-wallpaper_335153.jpg?raw=true)
-![test1](https://github.com/magicickey/ether/blob/main/test1.jpg?raw=true)
+
 
 // about 
 
