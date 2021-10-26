@@ -35,3 +35,5 @@
 ![QRpython](https://github.com/magicickey/ether/blob/main/QRpython.jpeg?raw+true)
 // index design
 
+// contact 
+![contact-us-banner](https://github.com/magicickey/ether/blob/main/contact-us-banner.png?raw=true)
