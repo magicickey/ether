@@ -1,7 +1,7 @@
 # ether
 // Design
 ![abstract-1635133716625-4573](https://github.com/magicickey/ether/blob/main/abstract-1635133716625-4573.jpg?raw=true)
-![wallpapertip_cool-purple-wallpaper_335153](https://github.com/magicickey/ether/blob/main/wallpapertip_cool-purple-wallpaper_335153.jpg?raw=true)
+![Silver-Wallpaper-51](https://github.com/magicickey/ether/blob/main/Silver-Wallpaper-51.jpg?raw=true)
 
 
 // about 
