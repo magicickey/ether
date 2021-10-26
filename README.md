@@ -21,6 +21,7 @@
 // hobbys
 
 // projet cover
+![lobodomar-destaques-destaques140711-abertura-jpg1](https://github.com/magicickey/ether/blob/main/lobodomar-destaques-destaques140711-abertura-jpg1.jpg?raw=true)
 
 // projet picture
 ![Cr%C3%A9ation%20d'un%20programme%20de%20jeu%20d'%C3%A9che](https://github.com/magicickey/ether/blob/main/Cr%C3%A9ation%20d'un%20programme%20de%20jeu%20d'%C3%A9chec.png?raw=true)
@@ -37,5 +38,5 @@
 
 // contact 
 ![contact-us-banner](https://github.com/magicickey/ether/blob/main/contact-us-banner.png?raw=true)
-![alexey-egorov-an-evening-trumpeter](https://github.com/magicickey/ether/blob/main/alexey-egorov-an-evening-trumpeter.jpg?raw=true)
+
 ![back%202](https://github.com/magicickey/ether/blob/main/back%202.jpg?raw=true)
