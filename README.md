@@ -2,7 +2,7 @@
 // Design
 ![abstract-1635133716625-4573](https://github.com/magicickey/ether/blob/main/abstract-1635133716625-4573.jpg?raw=true)
 ![wallpapertip_cool-purple-wallpaper_335153](https://github.com/magicickey/ether/blob/main/wallpapertip_cool-purple-wallpaper_335153.jpg?raw=true)
-![desert-sand-dunes-travel-concepts-dried-trees-camel](https://github.com/magicickey/ether/blob/main/desert-sand-dunes-travel-concepts-dried-trees-camel.jpg?raw=true)
+
 ![veloscuro-ok](https://github.com/magicickey/ether/blob/main/veloscuro-ok.jpg?raw=true)
 // about 
 
@@ -34,4 +34,4 @@
 ![qrcode_www.codecademy.com](https://github.com/magicickey/ether/blob/main/qrcode_www.codecademy.com.png?raw=true)
 ![QRpython](https://github.com/magicickey/ether/blob/main/QRpython.jpeg?raw+true)
 // index design
-![Untitled-2-original](https://github.com/magicickey/ether/blob/main/Untitled-2-original.jpg?raw=true)
+
