@@ -37,3 +37,4 @@
 
 // contact 
 ![contact-us-banner](https://github.com/magicickey/ether/blob/main/contact-us-banner.png?raw=true)
+![alexey-egorov-an-evening-trumpeter](https://github.com/magicickey/ether/blob/main/alexey-egorov-an-evening-trumpeter.jpg?raw=true)
