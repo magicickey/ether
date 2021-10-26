@@ -14,8 +14,8 @@ body {
 
 	
 	header {
- color: white;
- background-color:blue;
+ color: blue;
+ background-color:silver;
  background-image:url("");
   display:align-center;
    padding: auto ;
@@ -25,8 +25,8 @@ body {
 
 header .row,
 footer .row {
-  color:white;
-  background-color:blue;
+  color:red;
+  background-color:siver;
 background-image:url("");
  
 
