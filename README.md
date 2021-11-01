@@ -21,7 +21,7 @@
 // hobbys
 
 // projet cover
-![lobodomar-destaques-destaques140711-abertura-jpg1](https://github.com/magicickey/ether/blob/main/lobodomar-destaques-destaques140711-abertura-jpg1.jpg?raw=true)
+
 
 // projet picture
 ![Cr%C3%A9ation%20d'un%20programme%20de%20jeu%20d'%C3%A9che](https://github.com/magicickey/ether/blob/main/Cr%C3%A9ation%20d'un%20programme%20de%20jeu%20d'%C3%A9chec.png?raw=true)
