@@ -11,7 +11,7 @@ body {
 	background-image:url("");
 	color:dark ;
        font-size: 19px;
-
+       border-color: black;
 	
 	header {
  color: blue;
