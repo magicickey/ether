@@ -1,7 +1,6 @@
 # ether
 // Design
 ![887371](https://github.com/magicickey/ether/blob/main/887371.jpg?raw=true)
-
 // index complement
 ![annie-spratt-6a3nqQ1YwBw-unsplash](https://github.com/magicickey/ether/blob/main/annie-spratt-6a3nqQ1YwBw-unsplash.jpg?raw=true)
 ![clark-van-der-beken-mcCAFvlzZFQ-unsplash](https://github.com/magicickey/ether/blob/main/clark-van-der-beken-mcCAFvlzZFQ-unsplash.jpg?raw=true)
@@ -20,10 +19,8 @@
 ![php](https://github.com/magicickey/ether/blob/main/php.jpg?raw=true)
 ![python](https://github.com/magicickey/ether/blob/main/python.jpg?raw=true)
 // hobbys
-
 // projet cover
 ![Cool-3D-Image-Free-Download](https://github.com/magicickey/ether/blob/main/Cool-3D-Image-Free-Download.jpg?raw=true)
-
 // projet picture
 ![Cr%C3%A9ation%20d'un%20programme%20de%20jeu%20d'%C3%A9che](https://github.com/magicickey/ether/blob/main/Cr%C3%A9ation%20d'un%20programme%20de%20jeu%20d'%C3%A9chec.png?raw=true)
 ![workzone](https://github.com/magicickey/ether/blob/main/workzone.jpeg?raw=true)
@@ -36,10 +33,8 @@
 ![qrcode_www.codecademy.com](https://github.com/magicickey/ether/blob/main/qrcode_www.codecademy.com.png?raw=true)
 ![QRpython](https://github.com/magicickey/ether/blob/main/QRpython.jpeg?raw+true)
 // index design
-
 // contact 
 ![contact-us-banner](https://github.com/magicickey/ether/blob/main/contact-us-banner.png?raw=true)
-
 ![back%202](https://github.com/magicickey/ether/blob/main/back%202.jpg?raw=true)
 // design
 ![martin-sanchez-x-rqS-3Qi10-unsplash](https://github.com/magicickey/ether/blob/main/martin-sanchez-x-rqS-3Qi10-unsplash.jpg?raw=true)
