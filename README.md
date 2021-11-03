@@ -7,7 +7,7 @@
 ![annie-spratt-6a3nqQ1YwBw-unsplash](https://github.com/magicickey/ether/blob/main/annie-spratt-6a3nqQ1YwBw-unsplash.jpg?raw=true)
 ![clark-van-der-beken-mcCAFvlzZFQ-unsplash](https://github.com/magicickey/ether/blob/main/clark-van-der-beken-mcCAFvlzZFQ-unsplash.jpg?raw=true)
 // about 
-
+![martin-sanchez-x-rqS-3Qi10-unsplash](https://github.com/magicickey/ether/blob/main/martin-sanchez-x-rqS-3Qi10-unsplash.jpg?raw=true)
 // logo 
 ![7458730](https://github.com/magicickey/ether/blob/main/7458730.png?raw=true)
 // index
@@ -39,5 +39,5 @@
 ![contact-us-banner](https://github.com/magicickey/ether/blob/main/contact-us-banner.png?raw=true)
 ![back%202](https://github.com/magicickey/ether/blob/main/back%202.jpg?raw=true)
 // design
-![martin-sanchez-x-rqS-3Qi10-unsplash](https://github.com/magicickey/ether/blob/main/martin-sanchez-x-rqS-3Qi10-unsplash.jpg?raw=true)
+
 ![6169097a5b70f0709019320b7cc10d82](https://github.com/magicickey/ether/blob/main/6169097a5b70f0709019320b7cc10d82.webp?raw=true)
