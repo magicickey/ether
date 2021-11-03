@@ -10,7 +10,7 @@
 }
 
 body {
-  background-image:url('wallpaper-mania.com_High_resolution_wallpaper_background_ID_77701807449.jpg');
+  background-image:url('26366.jpg');
   color: white;
 }
 
@@ -19,3 +19,8 @@ header {
   background-image:url('wallpaper2you_248926.jpg');
   color:white;
 }
+header .row,
+footer.row {
+  background-color:black;
+  color:white;
+};
