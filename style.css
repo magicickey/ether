@@ -9,3 +9,13 @@
   box-sizing: content-box;
 }
 
+body {
+  background-image:url('clark-van-der-beken-mcCAFvlzZFQ-unsplash.jpg');
+  color: black;
+}
+
+
+header {
+  background-color:silver;
+  color:black;
+}
