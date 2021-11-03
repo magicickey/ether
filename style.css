@@ -5,6 +5,10 @@
   }
 }
 
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
 body {
   font-family:'Fredoka One', cursive ;
   background-color:none;
