@@ -12,15 +12,15 @@
 body {
   font-family:'Fredoka One', cursive ;
   background-color:none;
-	background-image:url("");
-	color:dark ;
+	background-image:url("annie-spratt-6a3nqQ1YwBw-unsplash.jpg");
+	color:white ;
        font-size: 19px;
        border-color: black;
 	
 	header {
- color: blue;
+ color: white;
  background-color:none;
- background-image:url("");
+ background-image:url("annie-spratt-6a3nqQ1YwBw-unsplash.jpg");
   display:align-center;
    padding: auto ;
    
