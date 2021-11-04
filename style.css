@@ -21,6 +21,7 @@ header {
 }
 header .row,
 footer.row {
-  background-color:black;
-  color:white;
+  background-color:white;
+  background-image:url('6169097a5b70f0709019320b7cc10d82.webp');
+  color:black;
 };
