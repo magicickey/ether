@@ -1,5 +1,6 @@
 # ether
 // Design
+![texture-digital-art-pattern-artwork-wallpaper-preview](https://github.com/magicickey/ether/blob/main/texture-digital-art-pattern-artwork-wallpaper-preview.jpg?raw=true)
 ![t%C3%A9l%C3%A9charger%20(2)](https://github.com/magicickey/ether/blob/main/t%C3%A9l%C3%A9charger%20(2).jpg?raw=true)
 ![wallpaper2you_248926](https://github.com/magicickey/ether/blob/main/wallpaper2you_248926.jpg?raw=true)
 ![887371](https://github.com/magicickey/ether/blob/main/887371.jpg?raw=true)
