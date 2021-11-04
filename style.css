@@ -10,7 +10,7 @@
 }
 
 body {
-  background-image:url('');
+  background-image:url('t%C3%A9l%C3%A9charger%20(11).jpg');
   color: white;
 }
 
@@ -21,7 +21,7 @@ header {
 }
 header .row,
 footer.row {
-  background-color:none;
-  background-image:url('t%C3%A9l%C3%A9charger%20(11).jpg');
+  background-color:white;
+  background-image:url('');
   color:black;
 };
