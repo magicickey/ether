@@ -4,8 +4,7 @@
 ![wallpaper2you_248926](https://github.com/magicickey/ether/blob/main/wallpaper2you_248926.jpg?raw=true)
 ![887371](https://github.com/magicickey/ether/blob/main/887371.jpg?raw=true)
 // index complement
-![annie-spratt-6a3nqQ1YwBw-unsplash](https://github.com/magicickey/ether/blob/main/annie-spratt-6a3nqQ1YwBw-unsplash.jpg?raw=true)
-![clark-van-der-beken-mcCAFvlzZFQ-unsplash](https://github.com/magicickey/ether/blob/main/clark-van-der-beken-mcCAFvlzZFQ-unsplash.jpg?raw=true)
+
 // about 
 ![martin-sanchez-x-rqS-3Qi10-unsplash](https://github.com/magicickey/ether/blob/main/martin-sanchez-x-rqS-3Qi10-unsplash.jpg?raw=true)
 // logo 
