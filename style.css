@@ -16,8 +16,8 @@ body {
 
 
 header {
-  background-image:url(');
-  color:white;
+  background-color:black;
+  color:blue;
 }
 header .row,
 footer.row {
