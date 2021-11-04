@@ -10,18 +10,18 @@
 }
 
 body {
-  background-image:url('wallpaper2you_248926.jpg');
+  background-image:url('');
   color: white;
 }
 
 
 header {
-  background-image:url('t%C3%A9l%C3%A9charger%20(9).jpg');
+  background-image:url('texture-digital-art-pattern-artwork-wallpaper-preview.jpg');
   color:white;
 }
 header .row,
 footer.row {
   background-color:none;
   background-image:url('t%C3%A9l%C3%A9charger%20(11).jpg');
-  color:white;
+  color:black;
 };
