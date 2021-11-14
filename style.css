@@ -21,12 +21,12 @@ body {
 
 
 header {
-  background-image:url('t%C3%A9l%C3%A9charger%20(25).jpg');
+  background-image:url('t%C3%A9l%C3%A9charger%20(5).jpg');
   color:blue;
 }
 header .row,
 footer.row {
-  background-color:;
+  background-color:black;
   background-image:url('');
   color:white;
 };
