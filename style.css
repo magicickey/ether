@@ -14,18 +14,18 @@
 }
 
 body {
-  background-image:url('t%C3%A9l%C3%A9charger%20(25).jpg');
+  background-image:url('t%C3%A9l%C3%A9charger%20(5).jpg');
   color: white;
 }
 
 
 header {
-  background-image:url('t%C3%A9l%C3%A9charger%20(5).jpg');
+  background-image:url('t%C3%A9l%C3%A9charger%20(25).jpg');
   color:blue;
 }
 header .row,
 footer.row {
-  background-color:silver;
+  background-color:;
   background-image:url('');
   color:white;
 };
