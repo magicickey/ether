@@ -16,7 +16,7 @@
 body {
   background-image:url('wallpaperbetter(26).jpg');
   color: white;
-  background-color:black;
+  background-color:;
 }
 
 
@@ -26,7 +26,7 @@ header {
 }
 header .row,
 footer.row {
-  background-color:black;
+  background-color:none;
   background-image:url('');
   color:white;
 };
