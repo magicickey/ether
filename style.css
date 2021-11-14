@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+
+
 /* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
 @media only screen and (max-device-width: 1366px) {
   .parallax {
@@ -22,6 +26,6 @@ header {
 header .row,
 footer.row {
   background-color:silver;
-  background-image:url('wallpaper2you_248926.jpg');
+  background-image:url('');
   color:white;
 };
