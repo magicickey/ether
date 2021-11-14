@@ -34,6 +34,7 @@
 ![qrcode_www.codecademy.com](https://github.com/magicickey/ether/blob/main/qrcode_www.codecademy.com.png?raw=true)
 ![QRpython](https://github.com/magicickey/ether/blob/main/QRpython.jpeg?raw+true)
 // index design
+![t%C3%A9l%C3%A9charger%20(25)](https://github.com/magicickey/ether/blob/main/t%C3%A9l%C3%A9charger%20(25).jpg?raw=true)
 // contact 
 ![contact-us-banner](https://github.com/magicickey/ether/blob/main/contact-us-banner.png?raw=true)
 
