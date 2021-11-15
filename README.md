@@ -40,3 +40,4 @@
 ![wallpaperbetter%20(5)](https://github.com/magicickey/ether/blob/main/wallpaperbetter%20(5).jpg?raw=true)
 
 ![6169097a5b70f0709019320b7cc10d82](https://github.com/magicickey/ether/blob/main/6169097a5b70f0709019320b7cc10d82.webp?raw=true)
+![wallpaperbetter%20(2)](https://github.com/magicickey/ether/blob/main/wallpaperbetter%20(2).jpg?raw=true)
