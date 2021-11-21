@@ -1,10 +1,6 @@
 # ether
 // Design
 ![t%C3%A9l%C3%A9charger%20(28)](https://github.com/magicickey/ether/blob/main/t%C3%A9l%C3%A9charger%20(28).jpg?raw=true)
-![3817354](https://github.com/magicickey/ether/blob/main/3817354.jpg?raw=true)
-
-// index complement
-![t%C3%A9l%C3%A9charger%20(11)](https://github.com/magicickey/ether/blob/main/t%C3%A9l%C3%A9charger%20(11).jpg?raw=true)
 // about 
 ![bp-miller-rLVsroZz55M-unsplash](https://github.com/magicickey/ether/blob/main/bp-miller-rLVsroZz55M-unsplash.jpg?raw=true)
 // logo 
