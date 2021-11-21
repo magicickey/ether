@@ -37,7 +37,7 @@
 ![t%C3%A9l%C3%A9charger%20(25)](https://github.com/magicickey/ether/blob/main/t%C3%A9l%C3%A9charger%20(25).jpg?raw=true)
 // contact 
 ![contact-us-banner](https://github.com/magicickey/ether/blob/main/contact-us-banner.png?raw=true)
-![wallpaperbetter%20(5)](https://github.com/magicickey/ether/blob/main/wallpaperbetter%20(5).jpg?raw=true)
+
 
 
 
