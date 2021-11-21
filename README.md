@@ -2,7 +2,7 @@
 // Design
 ![t%C3%A9l%C3%A9charger%20(28)](https://github.com/magicickey/ether/blob/main/t%C3%A9l%C3%A9charger%20(28).jpg?raw=true)
 ![3817354](https://github.com/magicickey/ether/blob/main/3817354.jpg?raw=true)
-![wallpaper2you_248926.jpg](https://github.com/magicickey/ether/blob/main/wallpaper2you_248926.jpg?raw=true)
+
 // index complement
 ![t%C3%A9l%C3%A9charger%20(11)](https://github.com/magicickey/ether/blob/main/t%C3%A9l%C3%A9charger%20(11).jpg?raw=true)
 // about 
@@ -39,5 +39,5 @@
 ![contact-us-banner](https://github.com/magicickey/ether/blob/main/contact-us-banner.png?raw=true)
 ![wallpaperbetter%20(5)](https://github.com/magicickey/ether/blob/main/wallpaperbetter%20(5).jpg?raw=true)
 
-![6169097a5b70f0709019320b7cc10d82](https://github.com/magicickey/ether/blob/main/6169097a5b70f0709019320b7cc10d82.webp?raw=true)
-![wallpaperbetter%20(2)](https://github.com/magicickey/ether/blob/main/wallpaperbetter%20(2).jpg?raw=true)
+
+
